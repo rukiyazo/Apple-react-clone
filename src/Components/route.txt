@@ -1,0 +1,16 @@
+route=element
+<route path="/mac" element={<mac/>}/>
+<>react.fragment<>
+{fragment}from "react".
+main component,
+<>  <>
+
+/ fenta index yemilewn metekat enchilalen
+
+"*"
+import link react
+
+
+bottstrap class
+order
+
